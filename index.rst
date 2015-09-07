@@ -11,6 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   Preparation
+   Schedule
+   Project
+
 
 
 Indices and tables
