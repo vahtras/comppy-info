@@ -14,15 +14,15 @@ Schedule
 |                 +        +-----------------+----------------------------+
 |                 |        | 10.00-12.00     | Testing_                   |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Plotting                   |
+|                 |        | 13.00-15.00     | Plotting_                  |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
-| Wednesday 21/10 | FA32   | 9.00-10.00      | Wrap up                    |
+| Wednesday 21/10 | FA32   | 9.00-10.00      | `Interfacing codes`__      |
 |                 +        +-----------------+----------------------------+
-|                 |        | 10.00-12.00     | Linear algebra             |
+|                 |        | 10.00-12.00     | `Linear algebra`__         |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Scientific libraries       |
+|                 |        | 13.00-15.00     | `Scientific libraries`__   |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
@@ -36,7 +36,7 @@ Schedule
 +-----------------+--------+-----------------+----------------------------+
 | Friday    23/10 | FE21   | 11.00-12.00     | Wrap-up                    |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Interfacing codes          |
+|                 |        | 13.00-15.00     | Debugging and optimization |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Summary, best practices    |
 +-----------------+--------+-----------------+----------------------------+
@@ -44,7 +44,18 @@ Schedule
 .. _Introduction: http://vahtras.github.io/introduction
 
 .. _git: http://vahtras.github.io/git
-
 __ git_
 
 .. _Testing: http://vahtras.github.io/testing
+
+.. _Plotting: http://vahtras.github.io/testing
+
+.. _Interfacing: http://vahtras.github.io/interfacing
+__ Interfacing_
+
+.. _linalg: http://vahtras.github.io/linalg
+__ linalg_
+
+.. _scipy: http://vahtras.github.io/scipy
+__ scipy_
+
