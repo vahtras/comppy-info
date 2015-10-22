@@ -26,17 +26,17 @@ Schedule
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
-| Thursday  22/10 | FA32   | 9.00-10.00      | Wrap up                    |
+| Thursday  22/10 | FA32   | 9.00-10.00      | Debugging_ , profiling_    |
 |                 +        +-----------------+----------------------------+
-|                 |        | 10.00-12.00     | Databases                  |
+|                 |        | 10.00-12.00     | Databases_                 |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Data handling              |
+|                 |        | 13.00-15.00     | Iterators_ and decorators_ |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
 | Friday    23/10 | FE21   | 11.00-12.00     | Wrap-up                    |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Debugging and optimization |
+|                 |        | 13.00-15.00     | Data handling              |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Summary, best practices    |
 +-----------------+--------+-----------------+----------------------------+
@@ -59,3 +59,12 @@ __ linalg_
 .. _scipy: http://vahtras.github.io/scipy
 __ scipy_
 
+.. _Debugging: http://vahtras.github.io/debugging
+
+.. _profiling: http://vahtras.github.io/profiling
+
+.. _databases: http://vahtras.github.io/sql
+
+.. _Iterators: http://vahtras.github.io/iterators
+
+.. _decorators: http://vahtras.github.io/decorators
