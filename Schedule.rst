@@ -50,7 +50,7 @@ __ git_
 
 .. _Plotting: http://vahtras.github.io/testing
 
-.. _Interfacing: http://vahtras.github.io/interfacing
+.. _Interfacing: http://vahtras.github.io/interfaces
 __ Interfacing_
 
 .. _linalg: http://vahtras.github.io/linalg
