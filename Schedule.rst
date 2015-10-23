@@ -36,7 +36,7 @@ Schedule
 +-----------------+--------+-----------------+----------------------------+
 | Friday    23/10 | FE21   | 11.00-12.00     | Wrap-up                    |
 |                 +        +-----------------+----------------------------+
-|                 |        | 13.00-15.00     | Data handling              |
+|                 |        | 13.00-15.00     | `Data handling`__          |
 |                 +        +-----------------+----------------------------+
 |                 |        | 15.00-16.00     | Summary, best practices    |
 +-----------------+--------+-----------------+----------------------------+
@@ -68,3 +68,6 @@ __ scipy_
 .. _Iterators: http://vahtras.github.io/iterators
 
 .. _decorators: http://vahtras.github.io/decorators
+
+.. _pandas: http://vahtras.github.io/pandas
+__ pandas_
