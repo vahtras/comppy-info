@@ -38,7 +38,7 @@ Schedule
 |                 +        +-----------------+----------------------------+
 |                 |        | 13.00-15.00     | `Data handling`__          |
 |                 +        +-----------------+----------------------------+
-|                 |        | 15.00-16.00     | Summary, best practices    |
+|                 |        | 15.00-16.00     | Summary, `best practices`__|
 +-----------------+--------+-----------------+----------------------------+
 
 .. _Introduction: http://vahtras.github.io/introduction
@@ -71,3 +71,6 @@ __ scipy_
 
 .. _pandas: http://vahtras.github.io/pandas
 __ pandas_
+
+.. _best: http://vahtras.github.io/best_practices
+__ best_
