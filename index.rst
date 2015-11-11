@@ -6,6 +6,8 @@
 Computational Python (BB3110)
 =============================
 
+A Ph.D. course at KTH_ (BB3110) in the SeSE_ program supported by eSSENCE_ and SeRC_.
+
 Contents:
 
 .. toctree::
@@ -17,11 +19,7 @@ Contents:
    Project
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. _KTH: http://www.kth.se
+.. _SeSE: http://sese.nu
+.. _eSSENCE: http://essenceofescience.se/
+.. _SeRC: http://www.e-science.se/
