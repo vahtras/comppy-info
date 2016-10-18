@@ -44,5 +44,5 @@ __ git_
 .. _Testing: http://vahtras.github.io/testing
 
 .. _linalg: http://vahtras.github.io/linalg
-__ linalg
+__ linalg_
 
