@@ -16,9 +16,9 @@ Schedule 2016
 |                 +        +-----------------+-------------------------------+
 |                 |        | 16.00-17.00     | Project work                  |
 +-----------------+--------+-----------------+-------------------------------+
-| Wednesday 19/10 |        | 9.00-12.00      | Interfacing codes, plotting   |
+| Wednesday 19/10 |        | 9.00-12.00      | Interfacing_ , plotting_      |
 | FB51            +        +-----------------+-------------------------------+
-|                 |        | 13.00-16.00     | Scientific libraries          |
+|                 |        | 13.00-16.00     | `Scientific libraries`__      |
 |                 +        +-----------------+-------------------------------+
 |                 |        | 16.00-17.00     | Project work                  |
 +-----------------+--------+-----------------+-------------------------------+
@@ -45,6 +45,14 @@ __ git_
 
 .. _linalg: http://vahtras.github.io/linalg
 __ linalg_
+
+.. _Interfacing: http://vahtras.github.io/interfaces
+
+
+.. _plotting: http://vahtras.github.io/plotting
+
+.. _scipy: http://vahtras.github.io/scipy
+__ scipy
 
 .. _Debug: http://vahtras.github.io/debugging
 
