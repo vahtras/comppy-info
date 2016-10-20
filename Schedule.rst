@@ -52,7 +52,7 @@ __ linalg_
 .. _plotting: http://vahtras.github.io/plotting
 
 .. _scipy: http://vahtras.github.io/scipy
-__ scipy
+__ scipy_
 
 .. _Debug: http://vahtras.github.io/debugging
 
