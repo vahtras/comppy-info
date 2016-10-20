@@ -24,7 +24,7 @@ Schedule 2016
 +-----------------+--------+-----------------+-------------------------------+
 | Thursday 20/10  |        | 9.00-12.00      | Debug_, profiling_, classes_  |
 | FB51            +        +-----------------+-------------------------------+
-|                 |        | 13.00-16.00     | Iterators and decorators      |
+|                 |        | 13.00-16.00     | Iterators_ and decorators_    |
 |                 +        +-----------------+-------------------------------+
 |                 |        | 16.00-17.00     | Project work                  |
 +-----------------+--------+-----------------+-------------------------------+
@@ -51,4 +51,8 @@ __ linalg_
 .. _profiling: http://vahtras.github.io/profiling
 
 .. _classes: http://vahtras.github.io/classes
+
+.. _Iterators: http://vahtras.github.io/Iterators
+
+.. _decorators: http://vahtras.github.io/decorators
 
