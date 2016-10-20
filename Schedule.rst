@@ -47,6 +47,8 @@ __ git_
 __ linalg_
 
 .. _Debug: http://vahtras.github.io/debugging
-.. _profile: http://vahtras.github.io/profiling
+
+.. _profiling: http://vahtras.github.io/profiling
+
 .. _classes: http://vahtras.github.io/classes
 
