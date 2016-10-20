@@ -60,7 +60,7 @@ __ scipy
 
 .. _classes: http://vahtras.github.io/classes
 
-.. _Iterators: http://vahtras.github.io/Iterators
+.. _Iterators: http://vahtras.github.io/iterators
 
 .. _decorators: http://vahtras.github.io/decorators
 
