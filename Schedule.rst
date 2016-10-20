@@ -22,13 +22,13 @@ Schedule 2016
 |                 +        +-----------------+----------------------------+
 |                 |        | 16.00-17.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
-| Thursday 20/10  |        | 9.00-12.00      | Databases                  |
+| Thursday 20/10  |        | 9.00-12.00      | Debug_,profiling_,classes_ |
 | FB51            +        +-----------------+----------------------------+
 |                 |        | 13.00-16.00     | Iterators and decorators   |
 |                 +        +-----------------+----------------------------+
 |                 |        | 16.00-17.00     | Project work               |
 +-----------------+--------+-----------------+----------------------------+
-| Friday    21/10 |        | 09.00-12.00     | Debugging and profiling    |
+| Friday    21/10 |        | 09.00-12.00     | Databases                  |
 | FP41            +        +-----------------+----------------------------+
 |                 |        | 13.00-16.00     | Data handling              |
 |                 +        +-----------------+----------------------------+
@@ -45,4 +45,8 @@ __ git_
 
 .. _linalg: http://vahtras.github.io/linalg
 __ linalg_
+
+.. _Debug: http://vahtras.github.io/debugging
+.. _profile: http://vahtras.github.io/profiling
+.. _classes: http://vahtras.github.io/classes
 
