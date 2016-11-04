@@ -28,9 +28,9 @@ Schedule 2016
 |                 +        +-----------------+-------------------------------+
 |                 |        | 16.00-17.00     | Project work                  |
 +-----------------+--------+-----------------+-------------------------------+
-| Friday    21/10 |        | 09.00-12.00     | Databases                     |
+| Friday    21/10 |        | 09.00-12.00     | Databases_                    |
 | FP41            +        +-----------------+-------------------------------+
-|                 |        | 13.00-16.00     | Data handling                 |
+|                 |        | 13.00-16.00     | `Data handling`__             |
 |                 +        +-----------------+-------------------------------+
 |                 |        | 16.00-17.00     | Project work                  |
 +-----------------+--------+-----------------+-------------------------------+
@@ -63,4 +63,9 @@ __ scipy_
 .. _Iterators: http://vahtras.github.io/iterators
 
 .. _decorators: http://vahtras.github.io/decorators
+
+.. _Databases: http://vahtras.github.io/sql
+
+.. _pandas: http://vahtras.github.io/pandas
+__ pandas_
 
