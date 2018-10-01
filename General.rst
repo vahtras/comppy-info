@@ -1,7 +1,7 @@
 General information
 ===================
 
-Welcome to the course Computational Python 2017.
+Welcome to the course Computational Python 2018.
 
 This course was originally a PhD course at KTH for graduate students in various
 computational sciences with similar programming needs.  It was part of the KCSE
@@ -12,6 +12,6 @@ SeSE (Swedish e-Science Education) has a similar agenda at a national level and 
 
 The SeSE courses consist of three parts: preparations at home, lectures+exercises on site, and project work at home. These parts are meant to take about one week each, in total approximately three weeks full time work which awards you 5 credits.
 
-The lectures and exercises at KTH will take place on 16-20 October, 2017 
+The lectures and exercises at KTH will take place on 15-19 October, 2018 
 in the Albanova campus, KTH. For directions see https://goo.gl/maps/buunb
 
