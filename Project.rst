@@ -10,5 +10,5 @@ The final examination consists of small written project report and a short oral 
 
 Sign-up for you presentation on this `schedule`__ 
 
-.. _schedule: https://docs.google.com/document/d/1FIALowgX7fIWIklTBTxg7EdSh7_8rrSaJvgtUqGtM3I
+.. _schedule: https://docs.google.com/document/d/14cVPLrQc3Won8hp8X3JeGKNhBibbzLZfkG43qUzz7hs/edit?usp=sharing
 __ schedule_
