@@ -39,31 +39,31 @@ __ intro_
 .. _git: http://bb3110.github.io/git
 __ git_
 
-.. _Testing: http://vahtras.github.io/testing
+.. _Testing: http://bb3110.github.io/testing
 
-.. _linalg: http://vahtras.github.io/linalg
+.. _linalg: http://bb3110.github.io/linalg
 __ linalg_
 
-.. _Interfacing: http://vahtras.github.io/interfaces
+.. _Interfacing: http://bb3110.github.io/interfaces
 
 
-.. _plotting: http://vahtras.github.io/plotting
+.. _plotting: http://bb3110.github.io/plotting
 
-.. _scipy: http://vahtras.github.io/scipy
+.. _scipy: http://bb3110.github.io/scipy
 __ scipy_
 
-.. _Debug: http://vahtras.github.io/debugging
+.. _Debug: http://bb3110.github.io/debugging
 
-.. _profiling: http://vahtras.github.io/profiling
+.. _profiling: http://bb3110.github.io/profiling
 
-.. _classes: http://vahtras.github.io/classes
+.. _classes: http://bb3110.github.io/classes
 
-.. _Iterators: http://vahtras.github.io/iterators
+.. _Iterators: http://bb3110.github.io/iterators
 
-.. _decorators: http://vahtras.github.io/decorators
+.. _decorators: http://bb3110.github.io/decorators
 
-.. _Databases: http://vahtras.github.io/sql
+.. _Databases: http://bb3110.github.io/sql
 
-.. _pandas: http://vahtras.github.io/pandas
+.. _pandas: http://bb3110.github.io/pandas
 
 .. _Concurrency: http://vahtras.github.io/parallel
